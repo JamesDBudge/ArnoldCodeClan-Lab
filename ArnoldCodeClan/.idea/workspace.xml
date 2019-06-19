@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abee7ede-aaa7-4bfb-a0c3-9ca867e2e6ad" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Dealership/Dealership.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Dealership/Till.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="22" selection-start-line="22" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Dealership/TillTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Dealership/CustomerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IHandleMoney.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IHandleCars.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Dealership/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#1020#1021#0" expanded="true" />
+                <element signature="e#1060#1061#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Dealership/DealershipTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Car/PetrolCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PetrolCarTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#910#911#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hybridCar</find>
+      <find>money</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>petrolCar</replace>
+      <replace>electricCar</replace>
+      <replace>wallet</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Dealership/Car/Dealership.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dealership/Car/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dealership/Car/ElectricCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dealership/Car/PetrolCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dealership/Car/HybridCar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dealership/Dealer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Dealership/DealerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behaviours/IDriveable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Car/ElectricCar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ElectricCarTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Car/HybridCar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HybridCarTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Car/PetrolCar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PetrolCarTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Dealership/DealershipTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Dealership/TillTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Dealership/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behaviours/IHandleTransactions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behaviours/IHandleMoney.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dealership/Till.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dealership/Dealership.java" />
+        <option value="$PROJECT_DIR$/src/main/java/behaviours/IHandleCars.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dealership/Customer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="62" />
+    <option name="y" value="23" />
+    <option name="width" value="1618" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ArnoldCodeClan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArnoldCodeClan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArnoldCodeClan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArnoldCodeClan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArnoldCodeClan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArnoldCodeClan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArnoldCodeClan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArnoldCodeClan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArnoldCodeClan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArnoldCodeClan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="behaviours" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArnoldCodeClan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArnoldCodeClan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Car" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArnoldCodeClan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArnoldCodeClan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Dealership" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArnoldCodeClan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArnoldCodeClan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArnoldCodeClan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArnoldCodeClan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArnoldCodeClan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArnoldCodeClan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Dealership" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Dealership" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in ArnoldCodeClan">
+    <configuration name="All in ArnoldCodeClan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArnoldCodeClan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest.canAddCar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArnoldCodeClan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dealership.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Dealership" />
+      <option name="MAIN_CLASS_NAME" value="Dealership.CustomerTest" />
+      <option name="METHOD_NAME" value="canAddCar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DealershipTest.canBuyVehicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArnoldCodeClan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dealership.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Dealership" />
+      <option name="MAIN_CLASS_NAME" value="Dealership.DealershipTest" />
+      <option name="METHOD_NAME" value="canBuyVehicle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetrolCarTest.drive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArnoldCodeClan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PetrolCarTest" />
+      <option name="METHOD_NAME" value="drive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TillTest.adjustTill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArnoldCodeClan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dealership.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Dealership" />
+      <option name="MAIN_CLASS_NAME" value="Dealership.TillTest" />
+      <option name="METHOD_NAME" value="adjustTill" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in ArnoldCodeClan" />
+        <item itemvalue="JUnit.CustomerTest.canAddCar" />
+        <item itemvalue="JUnit.DealershipTest.canBuyVehicle" />
+        <item itemvalue="JUnit.TillTest.adjustTill" />
+        <item itemvalue="JUnit.PetrolCarTest.drive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abee7ede-aaa7-4bfb-a0c3-9ca867e2e6ad" name="Default Changelist" comment="" />
+      <created>1560946360865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560946360865</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TillTest_setMoney - 2019.06.19 at 13h 58m 18s.xml">
+      <configuration name="TillTest.setMoney" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DealershipTest - 2019.06.19 at 14h 10m 28s.xml">
+      <configuration name="DealershipTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElectricCarTest_drive - 2019.06.19 at 14h 23m 52s.xml">
+      <configuration name="ElectricCarTest.drive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HybridCarTest_drive - 2019.06.19 at 14h 25m 22s.xml">
+      <configuration name="HybridCarTest.drive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PetrolCarTest_drive - 2019.06.19 at 14h 26m 45s.xml">
+      <configuration name="PetrolCarTest.drive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TillTest_adjustTill - 2019.06.19 at 14h 39m 57s.xml">
+      <configuration name="TillTest.adjustTill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DealershipTest_canBuyVehicle - 2019.06.19 at 14h 42m 35s.xml">
+      <configuration name="DealershipTest.canBuyVehicle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DealershipTest_canBuyVehicle - 2019.06.19 at 14h 42m 48s.xml">
+      <configuration name="DealershipTest.canBuyVehicle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DealershipTest_canBuyVehicle - 2019.06.19 at 14h 42m 51s.xml">
+      <configuration name="DealershipTest.canBuyVehicle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerTest_canAddCar - 2019.06.19 at 14h 50m 29s.xml">
+      <configuration name="CustomerTest.canAddCar" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="51" y="23" width="1629" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25771898" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Car/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dealership/Dealer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Dealership/DealerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IDriveable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Car/ElectricCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ElectricCarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Car/HybridCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HybridCarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="43" column="80" selection-start-line="43" selection-start-column="80" selection-end-line="43" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Car/PetrolCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PetrolCarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Dealership/DealershipTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Dealership/CustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Dealership/TillTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dealership/Till.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" selection-start-line="22" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dealership/Dealership.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IHandleMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IHandleCars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dealership/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
